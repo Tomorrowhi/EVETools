@@ -1,7 +1,7 @@
 package com.eve.everyone.evetool.activitys;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.RecyclerView;
 
 import com.eve.everyone.evetool.R;
@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initView() {
-       //设置主界面的背景图片
+        //设置主界面的背景图片
 
 //        recyclerView.setBackground();
     }
